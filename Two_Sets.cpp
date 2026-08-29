@@ -6,6 +6,8 @@ int main()
 {
     ll n;
     cin >> n;
+
+    // Make two sets such that their sums are equal
     vector<ll> a;
     vector<ll> b;
     ll totalSum = n * (n + 1) / 2;
