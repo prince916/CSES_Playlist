@@ -6,7 +6,6 @@ struct Student {
     string name;
     float marks;
 };
-//  kjhuoadhjlnas.bcv;ladkv
 
 
 int main() {
